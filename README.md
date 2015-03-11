@@ -1,6 +1,3 @@
-Objective-C_DragAndDrop
-======================
-
 #Drag & Drop Sample for Objective-C
 
 This is a very easy sample of Drag & Drop app, and judge collision detection when its gesture is finished.
